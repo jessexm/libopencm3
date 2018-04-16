@@ -18,6 +18,7 @@
  */
 
 #include <string.h>
+#include <sys/param.h>
 #include <libopencm3/cm3/common.h>
 #include <libopencm3/stm32/tools.h>
 #include <libopencm3/stm32/otg_fs.h>

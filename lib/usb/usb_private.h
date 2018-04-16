@@ -41,8 +41,6 @@ LGPL License Terms @ref lgpl_license
 #define MAX_USER_CONTROL_CALLBACK	4
 #define MAX_USER_SET_CONFIG_CALLBACK	4
 
-#define MIN(a, b) ((a) < (b) ? (a) : (b))
-
 /** Internal collection of device information. */
 struct _usbd_device {
 	const struct usb_device_descriptor *desc;

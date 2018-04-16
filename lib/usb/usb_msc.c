@@ -21,6 +21,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>
+#include <sys/param.h>
 #include <libopencm3/cm3/common.h>
 #include <libopencm3/usb/usbd.h>
 #include <libopencm3/usb/msc.h>

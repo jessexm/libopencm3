@@ -19,6 +19,7 @@
  */
 
 #include <string.h>
+#include <sys/param.h>
 #include <libopencm3/cm3/common.h>
 #include <libopencm3/efm32/memorymap.h>
 #include <libopencm3/efm32/cmu.h>
